@@ -1,0 +1,31 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>GlobeMC V2.0 Data-Mined Books</title>
+		<link rel="shortcut icon" type="image/png" href="../imgs/favicon.png"/>
+		<meta name="description" content="An interactive visualization of minecraft books on the web from GlobeMC v2.0.">
+		<meta name="author" content="Goby">
+  
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"> 
+  
+		<link rel="stylesheet" type="text/css" href="../src/bookPublisher.css">
+    	<script src="../src/bookPublisher.js"></script>
+		
+	</head>
+	<body style="background-color: black">
+		<center>
+			<h1 style="color: white; font-family: 'Roboto', sans-serif;">GlobeMC v2.0</h1>
+		</center>
+		<div style="max-width: 440px; margin: auto;">
+			<script>
+				new McBookPublisher({
+					id: "BookView2",
+					source: "../src/globemcv2.0books.txt",
+				}).init();
+			</script>
+		</div>
+	</body>
+</html>
