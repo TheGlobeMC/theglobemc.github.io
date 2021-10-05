@@ -1,0 +1,21 @@
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>GlobeMC's Data Mined Books</title>
+		<link rel="shortcut icon" type="image/png" href="imgs/favicon.png"/>
+		<meta name="description" content="An interactive visualization of minecraft books on the web from GlobeMC. All data was stripped of anything too personal or identifying.">
+		<meta name="author" content="Goby">
+  
+		<link rel="stylesheet" type="text/css" href="src/bookPublisher.css">
+    	<script src="src/bookPublisher.js"></script>
+	</head>
+	<body style="background-color: black; max-width: 500px; margin: auto;">
+		<script>
+			new McBookPublisher({
+				id: "BookView1",
+				source: "src/booksFinal.txt",
+			}).init();
+		</script>
+	</body>
+</html>
