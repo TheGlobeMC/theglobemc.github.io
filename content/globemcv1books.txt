@@ -1,13 +1,4 @@
 =====================================
-Book "(None)" by None
-(content hash = 2354111795307279072)
-Found 1x minecraft:writable_book (item ID 54, generation 0) in slot None of entity minecraft:item (UUID: 9721b94e-6229-43e9-ae5f-0419d239c968) at x:-453.3487468959736, y:59, z:-5768.482797542712
-Found 1x minecraft:writable_book (item ID 17209, generation 0) in slot 23 of block entity minecraft:chest at x:-4597, y:62, z:-8125
-Found 1x minecraft:writable_book (item ID 18797, generation 0) in slot 6 of block entity minecraft:chest at x:1337, y:9, z:-4627
-
---- Page 0 ---
-
-=====================================
 Book "Book O' Prophecy" by blaze_it_michael
 (content hash = 2088432645416396)
 Found 1x minecraft:written_book (item ID 114, generation 0) in slot None of entity minecraft:item_frame (UUID: e1e7d0e8-b5f2-45c8-b9f2-d7d4018a7195) at x:-52.03125, y:58.5, z:-970.5
@@ -1609,14 +1600,6 @@ Thus spoke Sans.
 ===================Thank you for reading volume 1 of Thus spoke Sans,if you enjoy the book consider donating to Sans' city for expansion,or in ink sacs for more books.
 I intend to make 4 volumes,and then I'll work on more books.
 ===================
-=====================================
-Book "MIKAEL BOOKINGS" by MIKHAEIL
-(content hash = 2897967420889798928)
-Found 1x minecraft:written_book (item ID 18030, generation 1) in slot 23 of block entity minecraft:chest at x:6213, y:82, z:2365
-Found 1x minecraft:written_book (item ID 41850, generation 2) in slot 0 of entity minecraft:item (UUID: f0aeb3bb-76c4-4a2d-aa12-9b71125d7232) at x:3515.113464237465, y:62.623060099191314, z:-5196.517324299867
-
---- Page None ---
-(None)
 =====================================
 Book "Evidence: Neuro" by Junkerd
 (content hash = -1340248785591541041)
