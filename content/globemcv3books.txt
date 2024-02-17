@@ -1,0 +1,185 @@
+=====================================
+Book "Ozymandias." by explodingmoons
+(content hash = 5931205202101460720)
+Found 1x minecraft:written_book (item ID 3378, generation 0) in slot 10 of block entity minecraft:chest at x:-232, y:24, z:-6561
+
+--- Page 0 ---
+I met a traveller from an antique land,
+Who said: "Two vast and trunkless legs of stone
+stand in the desert....Near them, on the sand,
+half sunk a visage lies, whose frown,
+and wrinkled lip, sneer of cold command,
+tell that its sculptor well those passions
+--- Page 1 ---
+read which yet survive, stamped on these lifeless things,
+the hand that mocked them, and the heart that fed; and on the pedestal, these words appear:
+My name is Ozymandias, king of kings; look on my works, ye mighty, and dispair!
+--- Page 2 ---
+Nothing beside remains. Round the decay of that colossal wreck, boundless and bare
+The lone and level sands stretch away.
+=====================================
+Book "(None)" by None
+(content hash = -6404876754656523383)
+Found 1x minecraft:writable_book (item ID 3532, generation 0) in slot 4 of block entity minecraft:chest at x:-221, y:62, z:-6597
+
+--- Page 0 ---
+Ayo bro, its me, BananaManCan, but you can call me Banana.  So basically, I lost all my stuff when I was diggin for netherite in the nether, think you could gimme a hand?
+
+ - Banana
+=====================================
+Book "(None)" by None
+(content hash = 7013752462886492168)
+Found 1x minecraft:writable_book (item ID 3533, generation 0) in slot 5 of block entity minecraft:chest at x:-221, y:62, z:-6597
+
+--- Page 0 ---
+Naam: Apple Liqour
+Ingred.: 12 appels
+Kooktijd: 16 min
+Distill runs : 3
+Wood: Acacia
+Age: 6 years
+Alch.: 14 
+--- Page 1 ---
+Naam: Wheat beer
+ingr: 3 wheat
+kooktijd: 8 min
+dis: 0
+wood: oak
+age : 3 years
+--- Page 2 ---
+Naam: sterke koffie
+ingr: 2 melk , 12 coco beans
+kooktijd: 2 min
+dis: 0
+age: 0
+--- Page 3 ---
+naam: Wackaghi?
+ingr: 3 wheat
+kooktijd: 8 min
+dis: 0
+age: 1
+--- Page 4 ---
+naam: Vladivostok Vodka
+ingr: 10 patatjes
+kooktijd: 10min-15min
+dis: 2-3
+age: nee
+--- Page 5 ---
+naam: absinthe
+ingr: 15 grass
+kooktijd: 3min
+dis: 1
+age: nee
+=====================================
+Book "(None)" by None
+(content hash = -4580070079820232382)
+Found 1x minecraft:writable_book (item ID 4462, generation 0) in slot 16 of block entity minecraft:chest at x:-8742, y:42, z:-2406
+
+--- Page 0 ---
+Villager Trades:
+--- Page 1 ---
+Librarians:
+1-
+
+
+2-
+
+
+3-
+
+
+4--
+=====================================
+Book "(None)" by None
+(content hash = -5661598288083374299)
+Found 1x minecraft:writable_book (item ID 6818, generation 0, display name: {"text":"Orders"}) in slot 16 of block entity minecraft:shulker_box at x:403, y:63, z:-5209
+
+--- Page 0 ---
+Kalu -- Mending
+
+6
+
+Unbreaking
+
+1
+
+409, -5214
+
+51, -651
+=====================================
+Book "(None)" by None
+(content hash = -5336953593343307562)
+Found 1x minecraft:writable_book (item ID 6927, generation 0) in slot 7 of block entity minecraft:barrel at x:203, y:25, z:-6133
+
+--- Page 0 ---
+w
+=====================================
+Book "Surprise..." by _ZLK
+(content hash = -1553359303383986823)
+Found 1x minecraft:written_book (item ID 7136, generation 0) in slot 16 of block entity minecraft:chest at x:8, y:36, z:-4229
+
+--- Page 0 ---
+As Salam Aleycoum Moha !
+Tu vas te connecter quand je serai pas là !
+Voila un petit cadeau,
+Tu as le choix entre plusieurs bannières.
+
+Passe une bonne session de jeu mon akhy fi lah ! 
+--- Page 1 ---
+N'oublie pas de remplir les reserves d'or <3
+
+
+=====================================
+Book "(None)" by None
+(content hash = 769832408731665714)
+Found 1x minecraft:writable_book (item ID 9330, generation 0) in slot None of block entity minecraft:lectern at x:4234, y:64, z:-3871
+
+--- Page 0 ---
+Attacks and Raids:
+-DaBlackSpartan shows extreme aggression towards Israel
+-Jumps Pres_Elect_Joe_Biden (formerly known as Kalukabaka) with the help of two new players wielding diamond swords and Ars3ntro with full nether gear
+--- Page 1 ---
+-Israel asks fellow Mandalorians for assisstance
+-OakKatan answers request
+-Joe Biden and OakKatan kill one of the decoys from the group attack (Mayo) and use ingenious tactics to kill DaBlackSpartan in his own town
+--- Page 2 ---
+-OakKatan kills DaBlackSpartan in a fair 1v1 duel that the two agreed to participate in, causing DaBlackSpartan to lose this second set of gear
+-Israel's second member, Nico, leaves to join Paris
+-Pres_Elect_Biden, now known again as Kalukabaka, decides
+--- Page 3 ---
+to put Israel up for sale to the highest bidder
+=====================================
+Book "(None)" by None
+(content hash = -3252201085866397544)
+Found 1x minecraft:writable_book (item ID 13562, generation 0) in slot 25 of ender chest of player with UUID 52036abe-e47e-4bb9-9282-299c7459e404
+
+--- Page 0 ---
+2 Gold Ingots
+--- Page 1 ---
+3 Gold Ingots
+--- Page 2 ---
+4 Gold Ingots
+--- Page 3 ---
+5 Gold Ingots
+--- Page 4 ---
+6 Gold Ingots
+--- Page 5 ---
+7 Gold Ingots
+--- Page 6 ---
+8 Gold Ingots
+--- Page 7 ---
+9 Gold Ingots
+--- Page 8 ---
+10 Gold Ingots
+--- Page 9 ---
+11 Gold Ingots
+--- Page 10 ---
+12 Gold Ingots
+--- Page 11 ---
+13 Gold Ingots
+--- Page 12 ---
+14 Gold Ingots
+--- Page 13 ---
+15 Gold Ingots
+--- Page 14 ---
+16 Gold Ingots
